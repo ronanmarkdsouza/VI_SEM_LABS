@@ -2,7 +2,7 @@
 1)	Write a program in C to reverse the digits of the following inter array of size 9. Initialize the input array to the following values.
 Input array: 18, 523, 301, 1234, 2, 14, 108, 150, 1928
 Output array: 81, 325, 103, 4321, 2, 41, 801, 51, 8291
-
+<br>
 2)	Write a program in C to simulate the all the operations of a calculator. Given inputs A and B, find the output for A+B, A-B, A*B and A/B. 
 
 3)	Write a program in C to toggle the character of a given string. 
