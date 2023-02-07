@@ -11,7 +11,7 @@ b. and a decoder, that reconstructs the original image from the latent space,
 use sigmoid as activation function.
 Once the model is trained for at least 10 epochs , with loss function as mean square 
 error, test it by encoding and decoding images from the test set. Display original and 
-reconstructed images.
+reconstructed images.<br>
 <strong>2. Train an autoencoder to detect anomalies using the ECG5000 dataset.</strong><br>
 Plot and observe a normal ECG vs an anomalous ECG.
 Design and Train an autoencoder on the normal rhythms only, then use it to 
