@@ -48,6 +48,6 @@ retrieves the id for any person (and handles prompting the user to clarify, in t
 that multiple people have the same name). The function then calls the shortest_path 
 function to compute the shortest path between the two people, and prints out the 
 path.<br><br>
-<strong>The shortest_path function has to be coded using 
-a.Breadth First Search
+<strong>The shortest_path function has to be coded using <br>
+a.Breadth First Search<br>
 b.Depth First Search</strong>
