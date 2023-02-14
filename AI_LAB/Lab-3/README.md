@@ -7,14 +7,14 @@ finding a film that two actors both starred in. To solve the problem, find the s
 between any two actors by choosing a sequence of movies that connects them. For 
 example, the shortest path between Jennifer Lawrence and Tom Hanks is 2: 
 Jennifer Lawrence is connected to Kevin Bacon by both starring in “X-Men: First 
-Class,” and Kevin Bacon is connected to Tom Hanks by both starring in “Apollo 13.”<br>
-<strong>Problem Solving Agent:</strong>
+Class,” and Kevin Bacon is connected to Tom Hanks by both starring in “Apollo 13.”<br><br>
+<strong>Problem Solving Agent:</strong><br>
 Given two actors nodes in the graph we need to find the distance (shortest path) 
 between the nodes. 
 Write a python program to determine how many “degrees of separation” apart two 
 actors are. Find the distance or the degree of separation., using 
-a. Breadth first search
-b. Depth first search
+a. Breadth first search<br>
+b. Depth first search<br>
 Distribution Code: 
 Data & Download the distribution code from: 
 https://cdn.cs50.net/ai/2020/x/projects/0/degrees.zip
