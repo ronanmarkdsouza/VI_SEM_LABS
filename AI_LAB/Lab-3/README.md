@@ -1,6 +1,6 @@
 # Lab-3
 ## WEEK 3: Problem Solving Agents & SEARCH
-<strong>The Game: </strong>
+<strong>The Game: </strong><br>
 According to the “Six Degrees of Kevin Bacon” game, anyone in the Hollywood film 
 industry can be connected to Kevin Bacon within six steps, where each step consists of 
 finding a film that two actors both starred in. To solve the problem, find the shortest path 
